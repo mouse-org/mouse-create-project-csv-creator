@@ -1,0 +1,948 @@
+{
+"allProjects": {
+"44": {
+"title": "DIY Generator",
+"teaser": "Create an electric current with just a wire coil and a magnet. In this project, you’ll light a human-powered LED!",
+"url": "https://create.mouse.org/project/44/",
+"id": 44
+},
+"105": {
+"title": "Testing Turbines",
+"teaser": "Design and build your own mini turbine out of everyday classroom materials.",
+"url": "https://create.mouse.org/project/105/",
+"id": 105
+},
+"134": {
+"title": "Hacking for a Sustainable Future",
+"teaser": "Hack an HTML story with your knowledge of renewable energy to save a city from disaster.",
+"url": "https://create.mouse.org/project/134/",
+"id": 134
+},
+"155": {
+"title": "Solarize It!",
+"teaser": "Green your gadgets with solar panels.",
+"url": "https://create.mouse.org/project/155/",
+"id": 155
+},
+"176": {
+"title": "Battery Builder",
+"teaser": "Build your own battery from common materials and see who can generate the most power!",
+"url": "https://create.mouse.org/project/176/",
+"id": 176
+},
+"195": {
+"title": "Energy Sleuths",
+"teaser": "Measure electricity usage and run experiments using the Green Tech Lab App to figure out ways to lower your carbon footprint!",
+"url": "https://create.mouse.org/project/195/",
+"id": 195
+},
+"237": {
+"title": "Become Action Heroes",
+"teaser": "Bring your energy-saving ideas to life with a plan to lower your site’s carbon footprint.",
+"url": "https://create.mouse.org/project/237/",
+"id": 237
+},
+"249": {
+"title": "Launch a Green Media Campaign",
+"teaser": "Create original media for a campaign about saving energy in your community.",
+"url": "https://create.mouse.org/project/249/",
+"id": 249
+},
+"260": {
+"title": "Pitch It!",
+"teaser": "Present your ideas to help bring green changes to your community.",
+"url": "https://create.mouse.org/project/260/",
+"id": 260
+},
+"1769": {
+"title": "The Leadership Wheel",
+"teaser": "Rethink your ideas about what makes a good leader and discover your own leadership style.",
+"url": "https://create.mouse.org/project/1769/",
+"id": 1769
+},
+"1815": {
+"title": "Hardware Go Fish",
+"teaser": "Learn what it takes to design your dream computer, whether you are a gamer, a designer or a student on the go, in this competitive card game!",
+"url": "https://create.mouse.org/project/1815/",
+"id": 1815
+},
+"1874": {
+"title": "Design is Everywhere",
+"teaser": "Explore the world through the eyes of a designer. Learn the fundamentals of design, and make choices about what makes design more or less successful.",
+"url": "https://create.mouse.org/project/1874/",
+"id": 1874
+},
+"1935": {
+"title": "Hack the News",
+"teaser": "Hack the code on the homepage of your favorite news site to tell a fun or thought-provoking story.",
+"url": "https://create.mouse.org/project/1935/",
+"id": 1935
+},
+"2017": {
+"title": "Source Whisperer",
+"teaser": "Draw a website by hand by looking at the HTML source code.",
+"url": "https://create.mouse.org/project/2017/",
+"id": 2017
+},
+"2093": {
+"title": "Light-up Creature",
+"teaser": "Create an LED light-up creature to learn how simple circuits work.",
+"url": "https://create.mouse.org/project/2093/",
+"id": 2093
+},
+"2150": {
+"title": "Text Your Computer: Use the Command Line",
+"teaser": "Use the command line interface to do basic tasks like creating or editing text files.",
+"url": "https://create.mouse.org/project/2150/",
+"id": 2150
+},
+"2218": {
+"title": "OS for All",
+"teaser": "Configure operating systems to give all users equal access. Explore different abilities & the adjustments in desktop & mobile devices.",
+"url": "https://create.mouse.org/project/2218/",
+"id": 2218
+},
+"2289": {
+"title": "The Do It Yourself Project",
+"teaser": "Create a step by step guide for a problem that you have fixed so that someone else could fix it too.",
+"url": "https://create.mouse.org/project/2289/",
+"id": 2289
+},
+"2348": {
+"title": "Tag Tag Revolution",
+"teaser": "Learn about HTML tags and markup, dance party-style.",
+"url": "https://create.mouse.org/project/2348/",
+"id": 2348
+},
+"2418": {
+"title": "Learning Linux",
+"teaser": "Install and explore the popular Linux operating system, Ubuntu and compare its features to other operating systems that you know.",
+"url": "https://create.mouse.org/project/2418/",
+"id": 2418
+},
+"2438": {
+"title": "Paper ToS",
+"teaser": "Tossing away your right to privacy when joining the newest online phenomenon is easier than you might think! Learn about what rights you may be giving away when you click ‘Agree’.",
+"url": "https://create.mouse.org/project/2438/",
+"id": 2438
+},
+"2451": {
+"title": "The Internet is a Live Mic",
+"teaser": "Explore the legacy you leave online by examining what your digital activity says about you.",
+"url": "https://create.mouse.org/project/2451/",
+"id": 2451
+},
+"2458": {
+"title": "Malware Avengers",
+"teaser": "Fight malicious computer villains with malware-fighting super powers!",
+"url": "https://create.mouse.org/project/2458/",
+"id": 2458
+},
+"2477": {
+"title": "Phish Market",
+"teaser": "Learn to identify and avoid digital phishing attacks by making up your own and attempting to fool other participants into thinking they’re real.",
+"url": "https://create.mouse.org/project/2477/",
+"id": 2477
+},
+"2488": {
+"title": "The Human Circuit",
+"teaser": "Discover how electricity flows in a circuit using your own body’s conductivity.",
+"url": "https://create.mouse.org/project/2488/",
+"id": 2488
+},
+"2499": {
+"title": "Password Round Robin",
+"teaser": "Play a game to defend yourself against bots and identity thieves by creating an uncrackable password!",
+"url": "https://create.mouse.org/project/2499/",
+"id": 2499
+},
+"2508": {
+"title": "Help Desk Superhero",
+"teaser": "Put a ticket tracking system to the test by writing Hollywood-inspired help desk tickets.",
+"url": "https://create.mouse.org/project/2508/",
+"id": 2508
+},
+"2768": {
+"title": "The Serious Gamer",
+"teaser": "Explore several serious games. Through play, you will analyze how serious global, political, and social issues are embedded into gameplay.",
+"url": "https://create.mouse.org/project/2768/",
+"id": 2768
+},
+"2904": {
+"title": "Hardware Everywhere",
+"teaser": "Get your hands on computer guts to find out what makes the machine work.",
+"url": "https://create.mouse.org/project/2904/",
+"id": 2904
+},
+"3018": {
+"title": "Ping Kong",
+"teaser": "Pretend to be data packets traveling from a computer to the internet in a fun obstacle course. Then, use ping and tracert in the command line.",
+"url": "https://create.mouse.org/project/3018/",
+"id": 3018
+},
+"3099": {
+"title": "Grow-A-Game",
+"teaser": "Use Grow-A-Game to help develop ideas and practice applying your skills as a designer to serious issues..",
+"url": "https://create.mouse.org/project/3099/",
+"id": 3099
+},
+"3142": {
+"title": "Ports & Connections",
+"teaser": "Learn what all those cables that came with your laptop are for and how to connect them.",
+"url": "https://create.mouse.org/project/3142/",
+"id": 3142
+},
+"3220": {
+"title": "Social Network Sort",
+"teaser": "Make good choices about posting to social media sites. Consider what is appropriate, and manage settings to protect your privacy.",
+"url": "https://create.mouse.org/project/3220/",
+"id": 3220
+},
+"3263": {
+"title": "Secret Sculpture: Practicing Communication",
+"teaser": "Boost your communication skills with a team sculpture challenge.",
+"url": "https://create.mouse.org/project/3263/",
+"id": 3263
+},
+"3443": {
+"title": "Internet of Things",
+"teaser": "Unleash your inner inventor by reimagining any object in the room as a “smart device.”",
+"url": "https://create.mouse.org/project/3443/",
+"id": 3443
+},
+"3500": {
+"title": "Scratch Serious Game",
+"teaser": "Remix a Scratch game into a serious game about a topic of your choice. Pick a topic, research it, design a game concept and execute it using Scratch.",
+"url": "https://create.mouse.org/project/3500/",
+"id": 3500
+},
+"3537": {
+"title": "The Mousemallow Challenge",
+"teaser": "Discover new definitions of failure and success while building a tower of marshmallows!",
+"url": "https://create.mouse.org/project/3537/",
+"id": 3537
+},
+"3714": {
+"title": "JavaScript Takeover",
+"teaser": "Transform the web with your own pictures by remixing a JavaScript bookmarklet using Mozilla Thimble.",
+"url": "https://create.mouse.org/project/3714/",
+"id": 3714
+},
+"3782": {
+"title": "Network Design Challenge",
+"teaser": "Connect the dots between routers, switches, laptops and other random devices to design a fully connected network!",
+"url": "https://create.mouse.org/project/3782/",
+"id": 3782
+},
+"3855": {
+"title": "My Name is URL",
+"teaser": "Discover what happens behind the curtain when you type www.something.com into your web browser.",
+"url": "https://create.mouse.org/project/3855/",
+"id": 3855
+},
+"3917": {
+"title": "Once Upon a Google Doc",
+"teaser": "Write a crazy team story and then edit it together at the same time using Google Docs.",
+"url": "https://create.mouse.org/project/3917/",
+"id": 3917
+},
+"3996": {
+"title": "Building with a Breadboard",
+"teaser": "Build a circuit that lights up with the push of a button while learning how to use a breadboard.",
+"url": "https://create.mouse.org/project/3996/",
+"id": 3996
+},
+"4114": {
+"title": "Setting Up a Ticket Tracking System",
+"teaser": "Set up your own ticket tracking system and implement it for your group’s help desk.",
+"url": "https://create.mouse.org/project/4114/",
+"id": 4114
+},
+"4201": {
+"title": "Light Dimmers & Intelligent Sensors",
+"teaser": "Control the resistance of an LED circuit with a dimmer (potentiometer) and a light sensor (photoresistor), seeing first hand how Ohm’s Law works.",
+"url": "https://create.mouse.org/project/4201/",
+"id": 4201
+},
+"4254": {
+"title": "Goals, Obstacles & Chance",
+"teaser": "Explore the importance of goals, obstacles, and chance in designing games. Through game play and design see how these elements make a game more or less challenging, engaging and fun",
+"url": "https://create.mouse.org/project/4254/",
+"id": 4254
+},
+"4380": {
+"title": "Intro to the Arduino",
+"teaser": "Create and program a digital blinking LED light circuit with the Arduino Microcontroller.",
+"url": "https://create.mouse.org/project/4380/",
+"id": 4380
+},
+"4397": {
+"title": "Transistor Nightlight",
+"teaser": "Make a circuit with a transistor that turns an LED light on when it is dark.",
+"url": "https://create.mouse.org/project/4397/",
+"id": 4397
+},
+"4586": {
+"title": "JavaScript Chatbot",
+"teaser": "Have you ever wondered how robots are programmed to talk? Here’s a chance to try it out, with this simple Thimble Chatbot!",
+"url": "https://create.mouse.org/project/4586/",
+"id": 4586
+},
+"4747": {
+"title": "Reverse Engineering",
+"teaser": "Break things with confidence! Learn the essential steps of reverse-engineering by deconstructing and documenting the inner-workings of everyday objects.",
+"url": "https://create.mouse.org/project/4747/",
+"id": 4747
+},
+"4781": {
+"title": "What is Scratch?",
+"teaser": "Investigate several different types of games to see what’s possible when creating a game in Scratch. Then look under the hood and try to match code blocks with game mechanics.",
+"url": "https://create.mouse.org/project/4781/",
+"id": 4781
+},
+"4920": {
+"title": "LED Light Chaser",
+"teaser": "Program an Arduino microcontroller to make an LED light show and edit the code to come up with your own light designs.",
+"url": "https://create.mouse.org/project/4920/",
+"id": 4920
+},
+"5000": {
+"title": "Build your own Digital Circuit",
+"teaser": "Turn an original idea into a real digital circuit prototype by building and testing and improving over several iterations.",
+"url": "https://create.mouse.org/project/5000/",
+"id": 5000
+},
+"5046": {
+"title": "Design your own Digital Circuit",
+"teaser": "​Design an original Arduino circuit, with a blueprint and parts list.",
+"url": "https://create.mouse.org/project/5046/",
+"id": 5046
+},
+"5158": {
+"title": "Say Yes to the IP Address",
+"teaser": "Create a map that shows how data travels between you and your favorite website, exploring network addressing, TCP/IP and DNS along the way.",
+"url": "https://create.mouse.org/project/5158/",
+"id": 5158
+},
+"5194": {
+"title": "PSA: Be Professional",
+"teaser": "Create a PSA (Public Service Announcement) that demonstrates the do’s and don’ts of professional etiquette.",
+"url": "https://create.mouse.org/project/5194/",
+"id": 5194
+},
+"5267": {
+"title": "Software 101",
+"teaser": "Explore the basics of computer programs like file extensions, installation and uninstallation.",
+"url": "https://create.mouse.org/project/5267/",
+"id": 5267
+},
+"5293": {
+"title": "Games from Scratch",
+"teaser": "Program a simple game in Scratch starting from a blank screen with Scratch code blocks.",
+"url": "https://create.mouse.org/project/5293/",
+"id": 5293
+},
+"5509": {
+"title": "It’s the Remix",
+"teaser": "Find a fun Scratch game, and make it your own by creating a remix! Design your own characters, and background, and level up the challenge in your new version.",
+"url": "https://create.mouse.org/project/5509/",
+"id": 5509
+},
+"5548": {
+"title": "Talk like a Fixer",
+"teaser": "Talk like a pro when you help other people work through technical problems. Practice asking the right questions and identifying another person’s level of experience.",
+"url": "https://create.mouse.org/project/5548/",
+"id": 5548
+},
+"5554": {
+"title": "Teamwork: The Mill Game",
+"teaser": "Get to know your team while completing this series of fun and increasingly elaborate challenges!",
+"url": "https://create.mouse.org/project/5554/",
+"id": 5554
+},
+"5558": {
+"title": "Found Object Game",
+"teaser": "Test your Game Making skills! Design your own Found Object Game with unique goals, mechanics and more.",
+"url": "https://create.mouse.org/project/5558/",
+"id": 5558
+},
+"5573": {
+"title": "Human-Centered Design",
+"teaser": "Discover how professional design teams come up with innovative ideas that are inspired by real people with real needs.",
+"url": "https://create.mouse.org/project/5573/",
+"id": 5573
+},
+"5667": {
+"title": "Design a Mobile App",
+"teaser": "Explore how mobile apps are designed with the sensors and hardware that give them special powers, critique your favorite apps and then design one of your own!",
+"url": "https://create.mouse.org/project/5667/",
+"id": 5667
+},
+"5745": {
+"title": "OS Design",
+"teaser": "Dive quickly into the roots of modern operating systems by comparing common features. Then mock up the home screen of your own system using simple prototyping tools.",
+"url": "https://create.mouse.org/project/5745/",
+"id": 5745
+},
+"5786": {
+"title": "Build a Mobile App with App Inventor",
+"teaser": "Code and test mobile apps in MIT’s App Inventor 2!",
+"url": "https://create.mouse.org/project/5786/",
+"id": 5786
+},
+"5996": {
+"title": "Make a Simple Website with Thimble",
+"teaser": "Make a simple and publish a simple website with Mozilla’s Thimble tool.",
+"url": "https://create.mouse.org/project/5996/",
+"id": 5996
+},
+"6021": {
+"title": "Arduino Sound Machine",
+"teaser": "Build and code a music-playing circuit with an Arduino.",
+"url": "https://create.mouse.org/project/6021/",
+"id": 6021
+},
+"6070": {
+"title": "Design a Better World",
+"teaser": "Make hundreds of sandwiches in 30 mins with lots of ridiculous rules to make it fun. This project connects design to its most critical purpose & brings teams together.",
+"url": "https://create.mouse.org/project/6070/",
+"id": 6070
+},
+"6144": {
+"title": "Kraken the Code",
+"teaser": "Hone your inner Truth Detective by learning how to tell the difference between legitimate information online and stuff that’s unreliable.",
+"url": "https://create.mouse.org/project/6144/",
+"id": 6144
+},
+"6210": {
+"title": "Intro to Game Design",
+"teaser": "Discover what games are made of, what a Game Designer is and hack a game.",
+"url": "https://create.mouse.org/project/6210/",
+"id": 6210
+},
+"6269": {
+"title": "People Programming",
+"teaser": "Searching for information on the web is easy, but could you write down every step you take along the way? Challenge yourself to do some “people programming” and find out.",
+"url": "https://create.mouse.org/project/6269/",
+"id": 6269
+},
+"6343": {
+"title": "I is for Input",
+"teaser": "Reflect on all ways that computers accept our input beyond keyboards and mice, then invent your own device that lets you communicate in an all new way.",
+"url": "https://create.mouse.org/project/6343/",
+"id": 6343
+},
+"6477": {
+"title": "Core Mechanics",
+"teaser": "Play games to get good at identifying game mechanics. Then, remix popular games to create new combinations of mechanics that change the experience.",
+"url": "https://create.mouse.org/project/6477/",
+"id": 6477
+},
+"6507": {
+"title": "Awkward! Dealing with Strangers Online",
+"teaser": "Keeping online interactions positive and safe is important for everyone. Identify opportunities to connect with new people and filter out the shady characters.",
+"url": "https://create.mouse.org/project/6507/",
+"id": 6507
+},
+"6813": {
+"title": "Design in a Bag",
+"teaser": "Turn a design challenge and bag of random items into a rapid prototype.",
+"url": "https://create.mouse.org/project/6813/",
+"id": 6813
+},
+"6858": {
+"title": "Ad Battle",
+"teaser": "Play a game to learn how ads appear on websites, and how they track our web behavior.",
+"url": "https://create.mouse.org/project/6858/",
+"id": 6858
+},
+"6859": {
+"title": "Arduino Nightlight",
+"teaser": "Build a digital nightlight with an Arduino and write a program that reads and processes light data from an analog photoresistor.",
+"url": "https://create.mouse.org/project/6859/",
+"id": 6859
+},
+"6991": {
+"title": "Empathy & Assistive Tech",
+"teaser": "​Experience through simulations how empathy makes it possible to design things for other people, including people with disabilities.​",
+"url": "https://create.mouse.org/project/6991/",
+"id": 6991
+},
+"7023": {
+"title": "Creative Commons .GIF Exchange",
+"teaser": "Make an animated GIF and decide how you want to share it using Creative Commons licenses.",
+"url": "https://create.mouse.org/project/7023/",
+"id": 7023
+},
+"7058": {
+"title": "Interviewer Strategies",
+"teaser": "Practice interview techniques to learn how designers identify their users’ needs.",
+"url": "https://create.mouse.org/project/7058/",
+"id": 7058
+},
+"7180": {
+"title": "User Personas",
+"teaser": "Create a detailed profile called a User Persona to help you come up with ideas that address a group’s needs, life experience and motivations.",
+"url": "https://create.mouse.org/project/7180/",
+"id": 7180
+},
+"7256": {
+"title": "Design Observation",
+"teaser": "Spot opportunities for design everywhere you look by sharpening your observation skills!",
+"url": "https://create.mouse.org/project/7256/",
+"id": 7256
+},
+"7298": {
+"title": "Basic Elements of Graphic Design",
+"teaser": "Take the first step towards becoming a great graphic designer by learning the basics!",
+"url": "https://create.mouse.org/project/7298/",
+"id": 7298
+},
+"7382": {
+"title": "Hello World",
+"teaser": "Write code in many different languages, find out what makes one programming language different from another.",
+"url": "https://create.mouse.org/project/7382/",
+"id": 7382
+},
+"7494": {
+"title": "Designing Layout",
+"teaser": "Discover how the placement of design elements can make a big difference to the message.",
+"url": "https://create.mouse.org/project/7494/",
+"id": 7494
+},
+"7629": {
+"title": "Interviewing Target Users",
+"teaser": "Lead interviews with users, taking observations and notes to find unique design opportunities.",
+"url": "https://create.mouse.org/project/7629/",
+"id": 7629
+},
+"7697": {
+"title": "HTML & CSS Relay",
+"teaser": "Compete in teams to be the first to finish remixing the content, HTML code and CSS styles of a webpage on Thimble.",
+"url": "https://create.mouse.org/project/7697/",
+"id": 7697
+},
+"7769": {
+"title": "Aspirational Avatar",
+"teaser": "Create an avatar for your profile that that represents the person you want to be in a year!",
+"url": "https://create.mouse.org/project/7769/",
+"id": 7769
+},
+"7841": {
+"title": "Playtesting",
+"teaser": "Design a quick ‘race-to-the-end’ game with a friend while you build the key design skill of playtesting.",
+"url": "https://create.mouse.org/project/7841/",
+"id": 7841
+},
+"7864": {
+"title": "JavaScript Generator",
+"teaser": "Remix JavaScript code using Thimble to make and share a randomized words generator.",
+"url": "https://create.mouse.org/project/7864/",
+"id": 7864
+},
+"7968": {
+"title": "Synthesizing Interviews",
+"teaser": "Organize your interview notes to find themes that will help you brainstorm great ideas!",
+"url": "https://create.mouse.org/project/7968/",
+"id": 7968
+},
+"8088": {
+"title": "Paper Prototyping",
+"teaser": "Experiment with paper prototyping by reverse-engineering everyday objects to get a glimpse into how they were designed.",
+"url": "https://create.mouse.org/project/8088/",
+"id": 8088
+},
+"8104": {
+"title": "Meet the Color Wheel",
+"teaser": "Start learning about color and how designers use it to attract audiences.",
+"url": "https://create.mouse.org/project/8104/",
+"id": 8104
+},
+"8219": {
+"title": "Design Story",
+"teaser": "Engage audiences by telling a strong design story featuring great documentation.",
+"url": "https://create.mouse.org/project/8219/",
+"id": 8219
+},
+"8263": {
+"title": "Pick a Palette",
+"teaser": "Learn how to pick good color schemes that all audiences can appreciate, and how to change color schemes on websites in this follow-up to the Meet the Color Wheel activity.",
+"url": "https://create.mouse.org/project/8263/",
+"id": 8263
+},
+"8289": {
+"title": "Rules of Brainstorming",
+"teaser": "Practice the professional process of brainstorming once your research and problem identification are complete.",
+"url": "https://create.mouse.org/project/8289/",
+"id": 8289
+},
+"8317": {
+"title": "Framing Questions",
+"teaser": "Learn how to frame your design challenges with How Might We Questions in order to achieve the most from brainstorms.",
+"url": "https://create.mouse.org/project/8317/",
+"id": 8317
+},
+"8540": {
+"title": "Typography: Designing Fonts",
+"teaser": "Design your own font and find out why they’re so important to design!",
+"url": "https://create.mouse.org/project/8540/",
+"id": 8540
+},
+"8569": {
+"title": "Iterations & Feedback",
+"teaser": "Create and document 3 increasingly technical iterations of a design prototype incorporating feedback from users.",
+"url": "https://create.mouse.org/project/8569/",
+"id": 8569
+},
+"8738": {
+"title": "Basic Elements of 3D Shapes",
+"teaser": "Learn what 3D designers think about when designing things for real-life, game worlds or animation!",
+"url": "https://create.mouse.org/project/8738/",
+"id": 8738
+},
+"8757": {
+"title": "*Mouse Create Scavenger Hunt*",
+"teaser": "ATTN NEW MEMBERS: Get to know the projects and features on Mouse Create with a quick scavenger hunt challenge.",
+"url": "https://create.mouse.org/project/8757/",
+"id": 8757
+},
+"8879": {
+"title": "Drawing in 3D",
+"teaser": "Take your designs to the next level by transforming them in 3D! Learn the basics in this activity.",
+"url": "https://create.mouse.org/project/8879/",
+"id": 8879
+},
+"8971": {
+"title": "You’ve Got the Power",
+"teaser": "Master the power of power! Get to know how we make electricity and how it gets to our communities.",
+"url": "https://create.mouse.org/project/8971/",
+"id": 8971
+},
+"9149": {
+"title": "Moving to the CAD World",
+"teaser": "Enter a whole new dimension by turning flat 2D shapes into digital 3D objects!",
+"url": "https://create.mouse.org/project/9149/",
+"id": 9149
+},
+"9266": {
+"title": "Educators: All about Mouse Create",
+"teaser": "Are you an educator getting started on Mouse Create? Learn how to use Mouse Projects and tools here.",
+"url": "https://create.mouse.org/project/9266/",
+"id": 9266
+},
+"9479": {
+"title": "Model Something Real in CAD",
+"teaser": "Level-up your CAD software skills by modeling real-world objects in the digital realm.",
+"url": "https://create.mouse.org/project/9479/",
+"id": 9479
+},
+"9663": {
+"title": "Haunted House Music",
+"teaser": "Let’s make some great music to celebrate halloween this season!",
+"url": "https://create.mouse.org/project/9663/",
+"id": 9663
+},
+"9802": {
+"title": "Educators: Awarding Badges",
+"teaser": "Find out more about Mouse’s Digital Badges and how you can award them.",
+"url": "https://create.mouse.org/project/9802/",
+"id": 9802
+},
+"9842": {
+"title": "Educators: Planning the Year",
+"teaser": "Customize your plan for the year by thinking about your site, learners, and resources!",
+"url": "https://create.mouse.org/project/9842/",
+"id": 9842
+},
+"9914": {
+"title": "Animate Your Name",
+"teaser": "Animate your name using Scratch to create interactive artwork!",
+"url": "https://create.mouse.org/project/9914/",
+"id": 9914
+},
+"10102": {
+"title": "Epic Font",
+"teaser": "Your challenge is to make an original epic font!",
+"url": "https://create.mouse.org/project/10102/",
+"id": 10102
+},
+"10218": {
+"title": "MouseBot GIF",
+"teaser": "Create an animated GIF story using our MouseBot characters!",
+"url": "https://create.mouse.org/project/10218/",
+"id": 10218
+},
+"10333": {
+"title": "Write the Future",
+"teaser": "Learn to use inkewriter to create a digital Choose Your Own Adventure-style game while thinking about how Earth supports life.",
+"url": "https://create.mouse.org/project/10333/",
+"id": 10333
+},
+"10455": {
+"title": "Build a House with SketchUp",
+"teaser": "Sharpen your knowledge of 3D design by learning to use Trimble’s SketchUp software.",
+"url": "https://create.mouse.org/project/10455/",
+"id": 10455
+},
+"10645": {
+"title": "Design a Keychain with SketchUp",
+"teaser": "Sharpen your knowledge of 3D design by learning to use Trimble’s SketchUp Make Software.",
+"url": "https://create.mouse.org/project/10645/",
+"id": 10645
+},
+"10935": {
+"title": "Sew a Basic Circuit",
+"teaser": "Take your first shot at making a circuit with sewable materials and learn a little about how circuits work along the way.",
+"url": "https://create.mouse.org/project/10935/",
+"id": 10935
+},
+"11039": {
+"title": "Sewable Superhero Cuff",
+"teaser": "Sew a wristband that gives you the power to test the conductivity of your world.",
+"url": "https://create.mouse.org/project/11039/",
+"id": 11039
+},
+"11078": {
+"title": "Sew a Tech Case",
+"teaser": "Get familiar with sewing terms, supplies, and techniques while making a handy tech-storage case for yourself.",
+"url": "https://create.mouse.org/project/11078/",
+"id": 11078
+},
+"11208": {
+"title": "RGB Color Mixer",
+"teaser": "Sew a color changeable circuit and create a light show in for your friends!",
+"url": "https://create.mouse.org/project/11208/",
+"id": 11208
+},
+"11238": {
+"title": "Sew an LED Snap Circuit",
+"teaser": "Embed an interactive circuit into your tech case that turns on and off with the snap of a button.",
+"url": "https://create.mouse.org/project/11238/",
+"id": 11238
+},
+"11320": {
+"title": "Fabric Push Button",
+"teaser": "Build your own push button out of conductive fabric for a fun, squishy way to control your circuit.",
+"url": "https://create.mouse.org/project/11320/",
+"id": 11320
+},
+"11473": {
+"title": "DIY Bend Sensor",
+"teaser": "Control circuits with a bendable made of fabric and flexible conductive materials.",
+"url": "https://create.mouse.org/project/11473/",
+"id": 11473
+},
+"11565": {
+"title": "Intro to the LilyPad Arduino USB",
+"teaser": "Use the LilyPad sewable microcontroller board to code behavior into your wearable tech projects!",
+"url": "https://create.mouse.org/project/11565/",
+"id": 11565
+},
+"11680": {
+"title": "LilyPad Goal Tracker",
+"teaser": "In this project you will program a LilyPad to respond to pressure input and sew the circuit into your clothes!",
+"url": "https://create.mouse.org/project/11680/",
+"id": 11680
+},
+"11772": {
+"title": "A.I. Avatar",
+"teaser": "Use Auto Draw to create an avatar that represents your technology goals for the year.",
+"url": "https://create.mouse.org/project/11772/",
+"id": 11772
+},
+"11787": {
+"title": "Curating Your Work",
+"teaser": "Choose work for a project portfolio that best tell the story you want your audience to hear.",
+"url": "https://create.mouse.org/project/11787/",
+"id": 11787
+},
+"11846": {
+"title": "What is a Portfolio?",
+"teaser": "Learn how you can show off all the different, amazing things you’ve accomplished in this introduction to digital portfolios.",
+"url": "https://create.mouse.org/project/11846/",
+"id": 11846
+},
+"11874": {
+"title": "UX/UI Design",
+"teaser": "Design with understanding of how User Experience (UX) and User Interface (UI) create user-friendly and attractive websites.",
+"url": "https://create.mouse.org/project/11874/",
+"id": 11874
+},
+"11939": {
+"title": "Information Architecture",
+"teaser": "Use information architecture to make finding, uploading and sharing your stuff fast and simple.",
+"url": "https://create.mouse.org/project/11939/",
+"id": 11939
+},
+"12118": {
+"title": "Bringing Your Portfolio to Life",
+"teaser": "Apply project documentation skills and knowledge by completing a first version of a completed digital portfolio.",
+"url": "https://create.mouse.org/project/12118/",
+"id": 12118
+},
+"12188": {
+"title": "Telling the Story of Your Success",
+"teaser": "Develop skills and habits that make documenting and demonstrating work part of the creative process.",
+"url": "https://create.mouse.org/project/12188/",
+"id": 12188
+},
+"12465": {
+"title": "Haunted VR",
+"teaser": "Build a 3D haunted house in CoSpaces to view in 360° or full VR.",
+"url": "https://create.mouse.org/project/12465/",
+"id": 12465
+},
+"12707": {
+"title": "8-Bit Pixel Artist",
+"teaser": "Use Piskel to create a GIF in the 8-Bit art style",
+"url": "https://create.mouse.org/project/12707/",
+"id": 12707
+},
+"12934": {
+"title": "Alternate Reality",
+"teaser": "Code a choose-your-own-adventure story with Mozilla Thimble and Javascript.",
+"url": "https://create.mouse.org/project/12934/",
+"id": 12934
+},
+"13263": {
+"title": "Unity Lander 1",
+"teaser": "Get started with Unity, professional game development software. Play a Moon Lander game and create your own unique level for it.",
+"url": "https://create.mouse.org/project/13263/",
+"id": 13263
+},
+"13335": {
+"title": "Unity Lander 2",
+"teaser": "Create a fun physics-based game using Unity. No coding required, the final project of the Unity Lander series!",
+"url": "https://create.mouse.org/project/13335/",
+"id": 13335
+},
+"13798": {
+"title": "Code a Card",
+"teaser": "Code a virtual greeting card in Scratch!",
+"url": "https://create.mouse.org/project/13798/",
+"id": 13798
+},
+"14082": {
+"title": "3D Space Model",
+"teaser": "Build a 3D model in TinkerCad that you’d like shot into space!",
+"url": "https://create.mouse.org/project/14082/",
+"id": 14082
+},
+"14468": {
+"title": "Physical Computing with Raspberry Pi",
+"teaser": "Create and program a digital blinking LED light circuit with the Raspberry Pi.",
+"url": "https://create.mouse.org/project/14468/",
+"id": 14468
+},
+"14677": {
+"title": "Earthling Music",
+"teaser": "Make a song in Soundation that represents what life is like on Earth!",
+"url": "https://create.mouse.org/project/14677/",
+"id": 14677
+},
+"15247": {
+"title": "Raspberry Pi Sound Machine",
+"teaser": "Build and code a music-playing circuit with a Raspberry Pi, then remix the code to turn it into an alarm system.",
+"url": "https://create.mouse.org/project/15247/",
+"id": 15247
+},
+"15326": {
+"title": "Raspberry Pi Nightlight",
+"teaser": "Build a digital nightlight with a Raspberry Pi and write a program that reads and processes light data from an analog photoresistor.",
+"url": "https://create.mouse.org/project/15326/",
+"id": 15326
+},
+"15456": {
+"title": "Raspberry Pi LED Light Chaser",
+"teaser": "Program a Raspberry Pi to make an LED light show and edit the code to come up with your own light designs.",
+"url": "https://create.mouse.org/project/15456/",
+"id": 15456
+},
+"15484": {
+"title": "Intro to Gemma M0",
+"teaser": "Learn about the Gemma M0: a small sewable microcontroller board, that will allow you to code behavior into your wearable projects!",
+"url": "https://create.mouse.org/project/15484/",
+"id": 15484
+},
+"15720": {
+"title": "Gemma M0 Goal Tracker",
+"teaser": "In this project you will program a Gemma M0 to respond to pressure input and sew the circuit into your clothes!",
+"url": "https://create.mouse.org/project/15720/",
+"id": 15720
+},
+"15826": {
+"title": "Restart Party",
+"teaser": "Flex your fix-it skills at a fun, drop-in event where you and community members fix or upgrade electronics together.",
+"url": "https://create.mouse.org/project/15826/",
+"id": 15826
+},
+"16219": {
+"title": "DIY Operation",
+"teaser": "Create your own version of the game Operation with easy to find materials!",
+"url": "https://create.mouse.org/project/16219/",
+"id": 16219
+},
+"16304": {
+"title": "Pixel Mosaic",
+"teaser": "Create a pixel art representation of your goals for the year.",
+"url": "https://create.mouse.org/project/16304/",
+"id": 16304
+},
+"16590": {
+"title": "Take Your Shot",
+"teaser": "Learn basic shot and composition techniques so you can create images that illustrate a feeling and document the stories around you.",
+"url": "https://create.mouse.org/project/16590/",
+"id": 16590
+},
+"16730": {
+"title": "Drawing a Great Story",
+"teaser": "Plan and prepare a story with structure then turn it into a storyboard to bring it to life!",
+"url": "https://create.mouse.org/project/16730/",
+"id": 16730
+},
+"16812": {
+"title": "Getting Good Sound",
+"teaser": "Learn how to choose an appropriate setting for audio recording with your phone or computer.",
+"url": "https://create.mouse.org/project/16812/",
+"id": 16812
+},
+"16895": {
+"title": "Making Meaning with Images",
+"teaser": "View and interpret how visual texts are structured to communicate meaning and emotion.",
+"url": "https://create.mouse.org/project/16895/",
+"id": 16895
+},
+"17075": {
+"title": "Make a Movie Trailer",
+"teaser": "Use what you know about shots, storyboarding, sound recording, and editing, to create your own film trailer.",
+"url": "https://create.mouse.org/project/17075/",
+"id": 17075
+},
+"17298": {
+"title": "Jingle Jam",
+"teaser": "Use Google Song Maker to make your own original song.",
+"url": "https://create.mouse.org/project/17298/",
+"id": 17298
+},
+"17547": {
+"title": "How to Use a Multimeter",
+"teaser": "Learn how to use this essential tool to measure electricity, test batteries and check for continuity in a circuit.",
+"url": "https://create.mouse.org/project/17547/",
+"id": 17547
+},
+"17703": {
+"title": "*BrainPOP Creative Coding Microproject",
+"teaser": "Use BrainPOP’s Creative Coding with Vidcode to design a comic or a meme.",
+"url": "https://create.mouse.org/project/17703/",
+"id": 17703
+}
+},
+"optionalProjects": [
+15720,
+15484,
+14468,
+15247,
+15326,
+15456
+]
+}
